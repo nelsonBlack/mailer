@@ -55,7 +55,7 @@
     "glob": "8.1.0",
     "inline-css": "4.0.2",
     "mjml": "^4.13.0",
-    "preview-email": "3.0.7"
+    "preview-email": "3.0.10"
   },
   "optionalDependencies": {
     "@types/ejs": "^3.0.3",
