@@ -52,7 +52,7 @@
     ]
   },
   "dependencies": {
-    "glob": "8.1.0",
+    "glob": "9.1.2",
     "inline-css": "4.0.2",
     "mjml": "^4.13.0",
     "preview-email": "3.0.7"
